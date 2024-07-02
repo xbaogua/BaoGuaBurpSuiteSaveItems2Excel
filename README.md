@@ -1,4 +1,4 @@
-# 一款小工具，可以将BurpSuite保存项Response中的Json数据保存为Excel文件，特别那些存在分页的表格数据，使用BurpSuite的Intruder快速请求，使用本工具将数据转换为Excel  
+一款小工具，可以将BurpSuite保存项Response中的Json数据保存为Excel文件，特别那些存在分页的表格数据，使用BurpSuite的Intruder快速请求，使用本工具将数据转换为Excel  
 
 File: BaoGuaBurpSuiteSaveItems2Excel.exe  
 Size: 1369936 bytes  
